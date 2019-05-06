@@ -29,21 +29,17 @@
 
   ![1. 什么是数据库](http://utopia-markdown-img.test.upcdn.net/img/1.%20%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%B0%E6%8D%AE%E5%BA%93.png)
 
-* MySQL相关操作：
-  * 配置文件：my.cnf
-  * 登录MySQL：mysql -uroot -p
-  * 登录的同时打开指定数据库：mysql -uroot -p -D db_name
+* MySQL相关操作： 
   * 退出MySQL：exit / quit / \q
-  * 命令行结束符默认为 ; 或 \g
-  * \c 可以取消当前命令的执行
-  * MySQL关键字使用大写，库名、表名、字段名等使用小写
-  * SQL语句支持折行操作，但不能把完整的单词拆开
-  * 库名、表名、字段名等不能使用MySQL的保留字，若必须使用则需要使用 `` 将其括起来
   
 * ![2. MySQL相关操作](http://utopia-markdown-img.test.upcdn.net/img/2.%20MySQL%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C.png)
 
 * ![3. 数据库相关操作](http://utopia-markdown-img.test.upcdn.net/img/3.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C.png)
 
 * ![4. 常用SQL语句](http://utopia-markdown-img.test.upcdn.net/img/4.%20%E5%B8%B8%E7%94%A8SQL%E8%AF%AD%E5%8F%A5.png)
+
+* ![5. 数据表相关操作part1](http://utopia-markdown-img.test.upcdn.net/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-06%2018.19.13.png)
+
+* ![6. MYSQL中的数据类型](http://utopia-markdown-img.test.upcdn.net/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-06%2018.29.37.png)
 
 * 
