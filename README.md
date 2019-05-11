@@ -30,6 +30,7 @@
   ![1. 什么是数据库](http://utopia-markdown-img.test.upcdn.net/img/1.%20%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%B0%E6%8D%AE%E5%BA%93.png)
 
 * MySQL相关操作： 
+  
   * 退出MySQL：exit / quit / \q
   
 * ![2. MySQL相关操作](http://utopia-markdown-img.test.upcdn.net/img/2.%20MySQL%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C.png)
@@ -42,4 +43,4 @@
 
 * ![6. MYSQL中的数据类型](http://utopia-markdown-img.test.upcdn.net/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-06%2018.29.37.png)
 
-* 
+* ![7. 数据表相关操作part2](http://utopia-markdown-img.test.upcdn.net/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-11%20%E4%B8%8B%E5%8D%8822.14.49%20%E4%B8%8B%E5%8D%88.png)
